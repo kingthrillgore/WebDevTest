@@ -3,13 +3,54 @@
  */
 
 /* Desktop - > 960px */
-@media screen and (max-width: 960px) {
+@media screen and (min-width: 960px) {
+	#wrapper {
+		width: 960px;
+	}
 
+	#header {
+		position: relative;
+		height: 90px;
+	}
+
+	#header img {
+		position: absolute;
+		top: -60px;
+		left: -35px;
+		z-index: 100;
+	}
+
+	#header .logo-top-row {
+
+	}
+
+	#header .header-background {
+		position: absolute;
+		z-index: 20;
+		left: -40px;
+		width:1000px;
+		height: 62px;
+	}
+
+	#header nav {
+		position: absolute;
+		right: 0;
+		top: 65px;
+		z-index: 30;
+	}
+
+	#main {
+
+	}
+
+	#main .sub {
+
+	}
 }
 
-/* Tablet - 640 to 960px */
+/* Tablet - 640 to 959px */
 
 
-/* Large Phone 480 to 640 */
+/* Large Phone 480 to 639 */
 
 /* Small Phone < 480px */

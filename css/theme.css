@@ -1,0 +1,73 @@
+/*
+ * Controls theme of design elements (Across all devices)
+ */
+body {
+	background: #005B92;
+	color: #fff;
+	font-family: sans-serif;
+}
+
+#wrapper {
+	margin: 35px auto;
+}
+
+#header {
+	
+}
+
+#header .logo-top-row {
+	background: #fff;
+	height: 25px;
+}
+
+#header .header-background {
+	background: #005F95 url(../img/HeaderGrad.jpg) repeat-y left top;
+	border-top: 1px solid #fff;
+	border-bottom: 1px solid #fff;
+}
+
+#header nav {
+	
+}
+
+#header nav ul {
+
+}
+
+#header nav ul li {
+	list-style-type: none;
+	display: inline-block;
+}
+
+#header nav ul li a {
+	color: #fff;
+}
+
+#main {
+	background: transparent url(../img/BackgroundGrad.jpg) repeat-x left top;
+	padding-top: 45px;
+}
+
+#main .sub {
+	background: #000;
+}
+
+#main .top-data {
+
+}
+
+#main .top-data a {
+
+}
+
+#main .top-data .hero {
+
+}
+
+#main .top-data .tickets {
+	
+}
+
+#footer {
+	background: transparent url(../img/FooterGrad.jpg) repeat-y left top;
+}
