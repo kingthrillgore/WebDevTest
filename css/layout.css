@@ -1,3 +1,15 @@
 /*
  * Controls layout per device width
  */
+
+/* Desktop - > 960px */
+@media screen and (max-width: 960px) {
+
+}
+
+/* Tablet - 640 to 960px */
+
+
+/* Large Phone 480 to 640 */
+
+/* Small Phone < 480px */
