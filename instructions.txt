@@ -1,0 +1,24 @@
+#
+# Scientific Games / MDI Interactive
+# Web Development Code Evaluation
+#
+################################################################################
+
+o ZonePreview.jpg is the preview of the page which we want turned into 
+  xhtml or html5 and css3. The conversion should not use automated tools 
+ (Fireworks, Dreamweaver, etc...).
+
+o The page needs to be responsive. ZonePreview_All.jpg shows the preview of the 
+  page in four different resolutions.
+
+o Adobe tools are not needed to complete this test.
+
+o All the assets have been cut up and provided in the zip file.
+
+o This is a static page and none of the links need to be functional.
+
+o Feel free to use Jquery or pure JavaScript.
+
+o The page should function correctly in Firefox 24+, Internet
+  Explorer 8+ (IE8 does not need to be responsive), and Chrome 30+.
+
